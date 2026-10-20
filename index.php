@@ -9,7 +9,7 @@ $namaTamu = isset($_GET['to']) && trim($_GET['to']) !== ''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Wedding of Nama &amp; Pasangan</title>
+    <title>The Wedding of Nama &amp; Pasangann</title>
     <meta name="theme-color" content="#0c0a09">
 
     <script src="https://cdn.tailwindcss.com"></script>
