@@ -10,7 +10,7 @@ $namaTamu = isset($_GET['to']) && trim($_GET['to']) !== ''
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>The Wedding of Epan dan imanuel &amp; Pasangan</title>
+    <title>The Wedding of : &amp; Pasangan</title>
 
     <meta name="theme-color" content="#0c0a09">
 
