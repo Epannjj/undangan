@@ -2,7 +2,7 @@
 // Nama tamu dari URL, contoh: index.php?to=Budi+Santoso
 $namaTamu = isset($_GET['to']) && trim($_GET['to']) !== ''
     ? htmlspecialchars(trim($_GET['to']), ENT_QUOTES, 'UTF-8')
-    : 'Tamu Undangan';
+    : 'Spooterjaya';
 ?>
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
